@@ -1,4 +1,4 @@
-My name is Guilherme Vieira. I am a frontend developer living in Portugal, Madeira.
+## My name is Guilherme Vieira. I am a frontend developer living in Portugal, Madeira.
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
 
