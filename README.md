@@ -5,8 +5,8 @@
 <a name="learning-now"></a>
 
 [<img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt="HTML logo" title="HTML" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS logo" title="CSS" height="25" />][tech_tools_anchor]
+&nbsp; HTML
+[<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS logo" title="CSS" height="25" />][tech_tools_anchor] CSS
 &nbsp;
 [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Javascript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
