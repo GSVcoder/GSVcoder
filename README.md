@@ -8,20 +8,20 @@
 &nbsp;
 [<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS logo" title="CSS" height="25" />][tech_tools_anchor] ***CSS***
 &nbsp;
+[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" alt="Sass logo" title="Sass" height="25" />][tech_tools_anchor] ***SASS***
+&nbsp;
 [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Javascript logo" title="JavaScript" height="25" />][tech_tools_anchor] ***JavaScript***
 &nbsp;
-[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" alt="Sass logo" title="Sass" height="25" />][tech_tools_anchor] ***SASS***
+[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="TypeScipt logo" title="TypeScipt" height="25" />][learning_now_anchor] ***TypeScipt***
 &nbsp;
 [<img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub logo" title="GitHub" height="25" />][tech_tools_anchor] ***GitHub***
 &nbsp;
 [<img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" alt="Linux logo" title="Linux" height="25" />][tech_tools_anchor] ***Linux***
 &nbsp;
 
-<a name="learning-next"></a>
-
 ## 📖  What I am currently learning / improving on
 
-[<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />][learning_now_anchor]
+[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="TypeScipt logo" title="TypeScipt" height="25" />][learning_now_anchor] ***TypeScipt***
 &nbsp;
 [<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />][learning_now_anchor]
 
