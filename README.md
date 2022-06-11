@@ -4,7 +4,8 @@
 
 <a name="learning-now"></a>
 
-[<img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt="HTML logo" title="HTML" height="25" />]
+[<img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt="HTML logo" title="HTML" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
