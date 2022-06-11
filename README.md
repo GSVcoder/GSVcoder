@@ -1,8 +1,7 @@
 # Born in Namibia 🇳🇦 <br> Based in Portugal 🇵🇹
+<br/>
 
 ## 🛠  Technologies and tools
-
-<a name="learning-now"></a>
 
 <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt="HTML logo" title="HTML" height="25" /> ***HTML***
 &nbsp;
