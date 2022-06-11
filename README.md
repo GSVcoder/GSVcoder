@@ -1,6 +1,6 @@
 # Born in Namibia 🇳🇦, based in Portugal 🇵🇹
 
-# 🛠  Technologies and tools
+## 🛠  Technologies and tools
 
 <a name="learning-now"></a>
 
@@ -20,7 +20,7 @@
 &nbsp;
 <br/>
 
-# 📖  What I am currently learning / improving on
+## 📖  What I am currently learning / improving on
 
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="TypeScipt logo" title="TypeScipt" height="25" /> ***TypeScipt***
 &nbsp;
@@ -28,7 +28,7 @@
 &nbsp;
 <br/>
 
-# 👾  What I am interested in learning at some point
+## 👾  What I am interested in learning at some point
 
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="C# logo" title="C#" height="25" /> ***C#***
 &nbsp;
