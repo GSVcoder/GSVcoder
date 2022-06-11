@@ -1,5 +1,4 @@
 # Born in Namibia 🇳🇦 <br> Based in Portugal 🇵🇹
-<br/>
 
 ## 🛠  Technologies and tools
 
@@ -19,6 +18,7 @@
 &nbsp;
 <br/>
 <br/>
+<br/>
 
 ## 📖  What I am currently learning / improving on
 
@@ -26,6 +26,7 @@
 &nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="BootStrap logo" title="BootStrap" height="25" /> ***BootStrap***
 &nbsp;
+<br/>
 <br/>
 <br/>
 
