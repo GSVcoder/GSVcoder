@@ -8,6 +8,8 @@
 &nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" alt="Sass logo" title="Sass" height="25" /> ***SASS***
 &nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="BootStrap logo" title="BootStrap" height="25" /> ***BootStrap***
+&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Javascript logo" title="JavaScript" height="25" /> ***JavaScript***
 &nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="TypeScipt logo" title="TypeScipt" height="25" /> ***TypeScipt***
@@ -16,8 +18,7 @@
 &nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" alt="Linux logo" title="Linux" height="25" /> ***Linux***
 &nbsp;
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="BootStrap logo" title="BootStrap" height="25" /> ***BootStrap***
-&nbsp;
+
 <br/>
 <br/>
 <br/>
