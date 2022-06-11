@@ -18,7 +18,6 @@
 &nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" alt="Linux logo" title="Linux" height="25" /> ***Linux***
 &nbsp;
-
 <br/>
 <br/>
 <br/>
