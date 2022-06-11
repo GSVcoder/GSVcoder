@@ -1,4 +1,4 @@
-## I am a frontend developer living in Portugal, Madeira
+## Born in Namibia 🇳🇦, based in Portugal 🇵🇹
 
 ## 🛠  Technologies and tools
 
