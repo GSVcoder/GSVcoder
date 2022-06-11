@@ -10,7 +10,9 @@
 &nbsp;
 [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Javascript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub logo" title="GitHub" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" alt="Linux logo" title="Linux" height="25" />][tech_tools_anchor]
 &nbsp;
 
 <a name="learning-next"></a>
