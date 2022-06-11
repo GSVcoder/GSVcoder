@@ -10,9 +10,9 @@
 &nbsp;
 [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Javascript logo" title="JavaScript" height="25" />][tech_tools_anchor] **JavaScript**
 &nbsp;
-[<img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub logo" title="GitHub" height="25" />][tech_tools_anchor] **GitHub*
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub logo" title="GitHub" height="25" />][tech_tools_anchor] **GitHub**
 &nbsp;
-[<img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" alt="Linux logo" title="Linux" height="25" />][tech_tools_anchor] **Linux*
+[<img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" alt="Linux logo" title="Linux" height="25" />][tech_tools_anchor] **Linux**
 &nbsp;
 
 <a name="learning-next"></a>
