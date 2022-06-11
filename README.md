@@ -28,9 +28,9 @@
 
 ## 👾  What I am interested in learning at some point
 
-[<img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="Raspberry Pi logo" title="Raspberry Pi" height="25" />][learning_now_anchor] ***Raspberry Pi***
+[<img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="C# logo" title="C#" height="25" />][learning_now_anchor] ***C#***
 &nbsp;
-[<img src="https://cdn-icons-png.flaticon.com/512/5969/5969184.png" alt="C# logo" title="C#" height="25" />][learning_now_anchor] ***C#***
+[<img src="https://cdn-icons-png.flaticon.com/512/5969/5969184.png" alt="Raspberry Pi logo" title="Raspberry Pi" height="25" />][learning_now_anchor] ***Raspberry Pi***
 &nbsp;
 
 ## 🔍  Where to find me
