@@ -23,7 +23,8 @@
 
 [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="TypeScipt logo" title="TypeScipt" height="25" />][learning_now_anchor] ***TypeScipt***
 &nbsp;
-[<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />][learning_now_anchor]
+[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="BootStrap logo" title="BootStrap" height="25" />][learning_now_anchor] ***BootStrap***
+&nbsp;
 
 ## 👾  What I am interested in learning at some point
 
