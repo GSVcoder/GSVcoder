@@ -1,4 +1,4 @@
-# Born in Namibia 🇳🇦, based in Portugal 🇵🇹
+# Born in Namibia 🇳🇦, <br> based in Portugal 🇵🇹
 
 ## 🛠  Technologies and tools
 
