@@ -16,6 +16,8 @@
 &nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" alt="Linux logo" title="Linux" height="25" /> ***Linux***
 &nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="BootStrap logo" title="BootStrap" height="25" /> ***BootStrap***
+&nbsp;
 <br/>
 <br/>
 <br/>
