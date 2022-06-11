@@ -1,4 +1,4 @@
-# Born in Namibia 🇳🇦, <br> based in Portugal 🇵🇹
+# Born in Namibia 🇳🇦 <br> Based in Portugal 🇵🇹
 
 ## 🛠  Technologies and tools
 
@@ -19,6 +19,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" alt="Linux logo" title="Linux" height="25" /> ***Linux***
 &nbsp;
 <br/>
+<br/>
 
 ## 📖  What I am currently learning / improving on
 
@@ -26,6 +27,7 @@
 &nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="BootStrap logo" title="BootStrap" height="25" /> ***BootStrap***
 &nbsp;
+<br/>
 <br/>
 
 ## 👾  What I am interested in learning at some point
