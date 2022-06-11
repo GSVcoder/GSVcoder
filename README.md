@@ -32,3 +32,5 @@
 &nbsp;
 [<img src="https://cdn-icons-png.flaticon.com/512/5969/5969184.png" alt="Raspberry Pi logo" title="Raspberry Pi" height="25" />][learning_now_anchor] ***Raspberry Pi***
 &nbsp;
+
+[tech_tools_anchor]
