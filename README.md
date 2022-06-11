@@ -1,5 +1,4 @@
-## My name is Guilherme Vieira
-### I am a frontend developer living in Portugal, Madeira
+## I am a frontend developer living in Portugal, Madeira
 
 ## 🛠  Technologies and tools
 
