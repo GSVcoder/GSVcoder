@@ -1,34 +1,4 @@
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@GSVcoder
-vbriand /
-vbriand
-Public
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-
-    Insights
-
-vbriand/README.md
-@vbriand
-vbriand Move things around a bit
-Latest commit 0779fc6 on Jun 4, 2021
-History
-1 contributor
-69 lines (56 sloc) 4.59 KB
-# Bonjour ! 🥖
-
-My name is Valentin Briand. I am a freelance frontend developer living near Paris, France. 🥐
+My name is Guilherme Vieira. I am a frontend developer living in Portugal, Madeira.
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
 
